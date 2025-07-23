@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Función para determinar la ruta base del sitio
         function getSiteBasePath() {
             // ¡¡¡ASEGÚRATE DE QUE ESTE VALOR SEA EL NOMBRE EXACTO DE TU REPOSITORIO EN GITHUB!!!
-            const repoName = 'COTE-V3';            // <--- VERIFICA Y CAMBIA ESTO SI ES NECESARIO
+            const repoName = 'COTE-V5';            // <--- VERIFICA Y CAMBIA ESTO SI ES NECESARIO
             const hostname = window.location.hostname;
             const pathname = window.location.pathname;
             let basePath = "";
